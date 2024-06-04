@@ -1,0 +1,11 @@
+# Ignore binary and object files
+bin/
+obj/
+
+# Ignore Code::Blocks project files
+*.depend
+*.layout
+
+# Ignore built files
+*.o
+*.exe

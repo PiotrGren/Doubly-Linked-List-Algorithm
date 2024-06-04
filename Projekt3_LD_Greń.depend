@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1641645748 source:c:\users\piotrek\desktop\projekt3_ld_greñ\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+
+1641645748 source:c:\users\piotrek\desktop\p03 greñ piotr\projekt3_ld_greñ\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+
